@@ -1,0 +1,11 @@
+@import url(../../Common/color.scss);
+
+.footer{
+    background-color: #1a242f;
+    display: flex;
+    height: 72px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    flex-direction: column;
+}
